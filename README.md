@@ -1,10 +1,4 @@
-# chrome-notes
-
-Boost your productivity with Quick Notes, a simple and efficient Chrome extension that lets you manage notes effortlessly.
-
-Extension Link: 
-https://chromewebstore.google.com/detail/ifaljgdldeljhephnhgecbleejgffbap?utm_source=item-share-cb
-<br>
+# claude with wings
 
 Load the Extension in Chrome (for development)
 
@@ -21,27 +15,3 @@ Load the Extension in Chrome (for development)
         
     4. Load the Extension:
         Pin it into the top in Chrome.
-
-
-## Features:
-1. Copy selected content in notes
-2. make a story of the selected number of notes from different sources. The story is built using the Free LLM AI model.
-3. Export your notes in Word, Excel, PowerPoint, or simple Txt
-4. We can time note as well
-
-Best for researchers and information scrapers who collect information from different sources and write content on the selected information. 
-
-
-## Video Guide:<br>
-https://www.loom.com/share/7d3a2d9d4be84c80ae62a9985b36fc4a
-
-
-<br/><br/>
-
-Updated and contributed by
-1.    Haffi Irfan
-2.    [Mubashir Iqbal](https://github.com/Mubshr07/) 
-
-<br/><br/>
-Review us:
-arjadgohar14@gmail.com

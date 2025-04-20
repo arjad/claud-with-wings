@@ -1,7 +1,7 @@
 {
-  "name": "chrome-notes",
+  "name": "claude with wings",
   "version": "1.0.0",
-  "description": "Boost your productivity with Quick Notes, a simple and efficient Chrome extension that lets you manage notes effortlessly.",
+  "description": "customize your Claude experience.",
   "main": "popup.js",
   "scripts": {
     "build": "webpack --config webpack.config.js"
