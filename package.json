@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arjad/chrome-notes.git"
+    "url": "git+https://github.com/arjad/claud-with-wings.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/arjad/chrome-notes/issues"
+    "url": "https://github.com/arjad/claud-with-wings/issues"
   },
-  "homepage": "https://github.com/arjad/chrome-notes#readme",
+  "homepage": "https://github.com/arjad/claud-with-wings#readme",
   "dependencies": {
     "jspdf": "^3.0.0",
     "jspdf-autotable": "^5.0.2",
