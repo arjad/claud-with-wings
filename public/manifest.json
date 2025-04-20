@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Claude with wings",
   "version": "1.0.0",
-  "description": "i Notes is a lightweight, easy-to-use extension for taking quick notes, saving developer commands",
+  "description": "Customize claude.ai with a bigger text box for a better typing experience.",
   "permissions": [
     "storage",
     "scripting"
