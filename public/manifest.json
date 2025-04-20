@@ -4,7 +4,8 @@
   "version": "1.0.0",
   "description": "i Notes is a lightweight, easy-to-use extension for taking quick notes, saving developer commands",
   "permissions": [
-    "storage"
+    "storage",
+    "scripting"
   ],
   "action": {
     "default_popup": "popup.html"
@@ -12,5 +13,15 @@
   "icons": {
     "48": "assets/logo.png",
     "128": "assets/logo.png"
-  }
+  },
+  "host_permissions": [
+    "https://claude.ai/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://claude.ai/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
 }
