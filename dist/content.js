@@ -1,0 +1,1 @@
+window.addEventListener("load",(()=>{document.querySelector("div.mx-auto.top-5.w-full.z-10").classList.remove("max-w-2xl"),document.querySelector('div[aria-label="Write your prompt to Claude"]').style.height="250px",document.querySelector('div[aria-label="Write your prompt to Claude"] div').classList.remove("max-w-[60ch]")}));

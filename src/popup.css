@@ -1,0 +1,36 @@
+body {
+  width: 20rem;
+  padding: 0.7rem;
+  color: black;
+}
+body[data-size="small"] {
+  width: 20rem;
+}
+body[data-size="medium"] {
+  width: 35rem;
+}
+body[data-size="large"] {
+  width: 50rem;
+}
+.dark-mode {
+  background-color: var(--dark-mode-bg-color) !important;
+  color: white !important;
+}
+.i-notes {
+  color: var(--primary-color);
+}
+#notes-list {
+  max-height: 60vh;
+  overflow-y: auto;
+}
+#notes-list::-webkit-scrollbar {
+  width: 8px;
+  border-radius: 4px;
+}
+#notes-list::-webkit-scrollbar-track {
+  border-radius: 4px;
+}
+#notes-list::-webkit-scrollbar-thumb {
+  background: var(--primary-color);
+  border-radius: 4px;
+}
