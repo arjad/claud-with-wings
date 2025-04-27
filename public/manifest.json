@@ -4,8 +4,7 @@
   "version": "1.0.0",
   "description": "Customize claude.ai with a bigger text box for a better typing experience.",
   "permissions": [
-    "storage",
-    "scripting"
+    "storage"
   ],
   "action": {
     "default_popup": "popup.html"
